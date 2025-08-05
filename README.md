@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o João Pedro Matioda Barbur
 
-<!--
-**JotaMatioda/JotaMatioda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 Atualmente estou trabalhando como:
+Desenvolvedor Júnior Flutter e java na **Viasoft**, atuando no desenvolvimento de um aplicativo e web voltado ao **Agronegócio**.
 
-Here are some ideas to get you started:
+### 💼 Atividades no dia a dia:
+- Desenvolvimento de **aplicações móveis Flutter/Dart**
+- Integração e consumo de APIs
+- Desenvolvimento back-end com **Java**
+- Interfaces Web com **XHTML**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Atualmente estou estudando:
+Aprofundamento em **Flutter**, com foco em arquitetura, boas práticas e performance.
+
+### 🎯 Objetivo:
+Evoluir como desenvolvedor fullstack e mobile, aprimorando minhas habilidades tanto no mobile quanto no back-end.
+
+### 💬 Pergunte-me sobre:
+- Flutter/Dart
+- SQL e banco de dados relacionais
+- Integração entre sistemas mobile e web
+- Java para aplicações corporativas
+
+### 👥 Buscando colaborar em:
+Projetos Flutter
+
+### 📫 Como me encontrar:
+- LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-pedro-matioda-barbur-a97819242/
+
+- Email: joaopedromatiodabarbur@gmail.com
+
+### ⚡ Curiosidade:
+Joguei basquete dos 11 aos 18 anos, o que me ensinou muito sobre disciplina e trabalho em equipe — valores que levo para minha carreira na tecnologia.

@@ -7,7 +7,9 @@
 ---
 
 <details>
-<summary><strong>🇧🇷 Versão em Português</strong></summary>
+<summary align="center"><strong>🇧🇷 Versão em Português</strong></summary>
+
+<div align="center">
 
 ## 🔭 Atualmente Trabalhando com
 
@@ -70,7 +72,7 @@ Evoluir como **Desenvolvedor Fullstack e Mobile**, unindo experiência em mobile
 
 ## 📫 Contato
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-matioda-barbur-a97819242/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
   </a>
@@ -90,12 +92,15 @@ Evoluir como **Desenvolvedor Fullstack e Mobile**, unindo experiência em mobile
 
 🏀 Joguei **basquete dos 11 aos 18 anos**, o que me ensinou muito sobre **disciplina** e **trabalho em equipe** — valores que levo para minha carreira na tecnologia.
 
+</div>
 </details>
 
 ---
 
 <details>
-<summary><strong>🇺🇸 English Version</strong></summary>
+<summary align="center"><strong>🇺🇸 English Version</strong></summary>
+
+<div align="center">
 
 ## 🔭 Currently Working On
 
@@ -158,7 +163,7 @@ To become a skilled **Fullstack & Mobile Developer**, combining mobile experienc
 
 ## 📫 Contact Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-matioda-barbur-a97819242/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
   </a>
@@ -178,4 +183,5 @@ To become a skilled **Fullstack & Mobile Developer**, combining mobile experienc
 
 🏀 I played **basketball from age 11 to 18**, which shaped my values of **discipline** and **teamwork** — both fundamental in my journey as a developer.
 
+</div>
 </details>

@@ -1,33 +1,181 @@
-## 👋 Olá! Eu sou o João Pedro Matioda Barbur
+<h1 align="center">👋 João Pedro Matioda Barbur</h1>
 
-### 🔭 Atualmente estou trabalhando como:
-Desenvolvedor Júnior Flutter e java na **Viasoft**, atuando no desenvolvimento de um aplicativo e web voltado ao **Agronegócio**.
+<p align="center">
+  <i>Desenvolvedor Júnior Flutter & Java na <b>Viasoft</b></i>  
+</p>
 
-### 💼 Atividades no dia a dia:
-- Desenvolvimento de **aplicações móveis Flutter/Dart**
-- Integração e consumo de APIs
-- Desenvolvimento back-end com **Java**
-- Interfaces Web com **XHTML**
+---
 
-### 🌱 Atualmente estou estudando:
-Aprofundamento em **Flutter**, com foco em arquitetura, boas práticas e performance.
+<details>
+<summary><strong>🇧🇷 Versão em Português</strong></summary>
 
-### 🎯 Objetivo:
-Evoluir como desenvolvedor fullstack e mobile, aprimorando minhas habilidades tanto no mobile quanto no back-end.
+## 🔭 Atualmente Trabalhando com
 
-### 💬 Pergunte-me sobre:
-- Flutter/Dart
-- SQL e banco de dados relacionais
-- Integração entre sistemas mobile e web
-- Java para aplicações corporativas
+| Tecnologia | Utilização |
+|------------|------------|
+| 📱 Flutter / Dart | Desenvolvimento de apps móveis |
+| 🌐 Java (backend) | Lógica de negócio e integrações |
+| 🧩 APIs | Integração e consumo de dados |
+| 🖥 XHTML | Interfaces web para sistemas corporativos |
 
-### 👥 Buscando colaborar em:
-Projetos Flutter
+---
 
-### 📫 Como me encontrar:
-- LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-pedro-matioda-barbur-a97819242/
+## 💼 Stack e Atividades Diárias
 
-- Email: joaopedromatiodabarbur@gmail.com
+| Atividade | Descrição |
+|-----------|-----------|
+| 📱 Flutter | Desenvolvimento de apps com **Flutter/Dart** |
+| ☕ Java | Manutenção e criação de rotinas **backend** |
+| 🖥 XHTML | Criação de interfaces **web responsivas** |
+| 🗄 SQL | Manipulação de **bancos relacionais** |
+| 🔁 Rotina | Ciclo completo: **planejamento → código → testes → deploy** |
 
-### ⚡ Curiosidade:
-Joguei basquete dos 11 aos 18 anos, o que me ensinou muito sobre disciplina e trabalho em equipe — valores que levo para minha carreira na tecnologia.
+---
+
+## 🌱 Estudando Atualmente
+
+| Área | Foco |
+|------|------|
+| 📚 Arquitetura | Boas práticas com **Flutter** |
+| 🛠️ Código Limpo | **Performance** e manutenção |
+| 🧪 Testes | Testes de **unidade** e **integração** |
+
+---
+
+## 🎯 Objetivo Profissional
+
+Evoluir como **Desenvolvedor Fullstack e Mobile**, unindo experiência em mobile com backend robusto para entregar soluções completas.
+
+---
+
+## 💬 Me pergunte sobre
+
+| Tema | Descrição |
+|------|-----------|
+| 🧠 Flutter / Dart | Widgets, gerenciamento de estado, arquitetura |
+| 🗄 SQL | Estrutura de dados relacionais, queries |
+| ☕ Java | Desenvolvimento de back-end corporativo |
+| 🔄 Integrações | Comunicação entre apps mobile e web |
+
+---
+
+## 👥 Buscando Colaborar em
+
+| Tipo | Descrição |
+|------|-----------|
+| 📲 Projetos | Aplicativos em **Flutter** |
+| 🛠️ Open Source | Ferramentas para apps móveis |
+
+---
+
+## 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-matioda-barbur-a97819242/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:joaopedromatiodabarbur@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/jotamatioda/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ⚡ Curiosidade
+
+🏀 Joguei **basquete dos 11 aos 18 anos**, o que me ensinou muito sobre **disciplina** e **trabalho em equipe** — valores que levo para minha carreira na tecnologia.
+
+</details>
+
+---
+
+<details>
+<summary><strong>🇺🇸 English Version</strong></summary>
+
+## 🔭 Currently Working On
+
+| Technology | Usage |
+|------------|--------|
+| 📱 Flutter / Dart | Mobile app development |
+| 🌐 Java (backend) | Business logic and integration |
+| 🧩 APIs | Integration and data consumption |
+| 🖥 XHTML | Web interfaces for enterprise systems |
+
+---
+
+## 💼 Daily Stack & Responsibilities
+
+| Activity | Description |
+|----------|-------------|
+| 📱 Flutter | Developing mobile apps using **Flutter/Dart** |
+| ☕ Java | Maintaining and building **back-end features** |
+| 🖥 XHTML | Creating responsive **web interfaces** |
+| 🗄 SQL | Working with **relational databases** |
+| 🔁 Workflow | Full lifecycle: **planning → coding → testing → deploying** |
+
+---
+
+## 🌱 Currently Learning
+
+| Area | Focus |
+|------|-------|
+| 📚 Architecture | Advanced **Flutter** architecture |
+| 🛠️ Code Quality | **Performance optimization** and **clean code** |
+| 🧪 Testing | **Unit** and **integration testing** best practices |
+
+---
+
+## 🎯 Career Objective
+
+To become a skilled **Fullstack & Mobile Developer**, combining mobile experience with robust backend knowledge for complete and efficient software delivery.
+
+---
+
+## 💬 Ask Me About
+
+| Topic | Description |
+|-------|-------------|
+| 🧠 Flutter / Dart | Widgets, state management, navigation, architecture |
+| 🗄 SQL | Queries, relational structure, indexing |
+| ☕ Java | Enterprise backend development |
+| 🔄 Integration | Mobile ↔ Web systems and services |
+
+---
+
+## 👥 Open to Collaborate On
+
+| Type | Description |
+|------|-------------|
+| 📲 Projects | Flutter-based apps and components |
+| 🛠️ Open Source | Mobile development tools or utilities |
+
+---
+
+## 📫 Contact Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-matioda-barbur-a97819242/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:joaopedromatiodabarbur@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/jotamatioda/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+🏀 I played **basketball from age 11 to 18**, which shaped my values of **discipline** and **teamwork** — both fundamental in my journey as a developer.
+
+</details>

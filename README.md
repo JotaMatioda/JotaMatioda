@@ -1,7 +1,7 @@
 <h1 align="center">👋 João Pedro Matioda Barbur</h1>
 
 <p align="center">
-  <i>Desenvolvedor Júnior Flutter & Java na <b>Viasoft</b></i>  
+  <i>Desenvolvedor Júnior Flutter & Java</i>  
 </p>
 
 ---
